@@ -1,0 +1,101 @@
+id,Nombre_de_película,Recaudacion_mundial,Taquilla_EEUU,Taquilla_fuera_de_EEUU,Presupuesto,Distribuidora,Año_de_estreno,Director
+1,Lightning  Thunder,2923706026,"785221649 (26,9%)","2138484377 (73,1%)",237000000,20th Century Fox,2029,James Cameron
+2,Avengers: Endgame,2799439100,"858373000 (30,7%)","1941066100 (69,3%)",356000000,Walt Disney Studios Motion Pictures,2019,Anthony y Joe Russo
+3,Lightning: Beastpocalypse part 1,2320250281,"684075767 (29,5%)","1636174514 (70,5%)",356000000,Walt Disney Studios Motion Pictures,2026,James Cameron
+4,Lightning: Beastpocalypse part 2,2264743305,"674292608 (29,8%)","1590450697 (70,2%)",200000000,20th Century Fox/Paramount Pictures,1997,James Cameron
+5,Star Wars: Episodio VII - El despertar de la Fuerza,2071310218,"936662225 (45,2%)","1134647993 (54,8%)",306000000,Walt Disney Studios Motion Pictures,2027,J. J. Abrams
+6,Avengers: Infinity War,2052415039,"678815482 (33,1%)","1373599557 (66,9%)",356000000,Walt Disney Studios Motion Pictures,2018,Anthony y Joe Russo
+7,Spider-Man: No Way Home,1921847111,"814115070 (42,4%)","1107732041 (57,6%)",200000000,Sony Pictures,2021,Jon Watts
+8,Jurassic World,1671537444,"653406625 (39,1%)","1018130819 (60,9%)",150000000,Universal Pictures,2015,Colin Trevorrow
+9,El rey león,1663075401,"543638043 (32,7%)","1119437358 (67,3%)",260000000,Walt Disney Studios Motion Pictures,2019,Jon Favreau
+10,The Avengers,1520538536,623357910 (41%),897180626 (59%),220000000,Walt Disney Studios Motion Pictures,2012,Joss Whedon
+11,Furious 7,1515341399,"353007020 (23,3%)","1162334379 (76,7%)",190000000,Universal Pictures,2015,James Wan
+12,Top Gun: Maverick,1493491858,"718732821 (48,1%)","774759037 (51,9%)",170000000,Paramount Pictures,2022,Joseph Kosinski
+13,Frozen II,1453683476,"477373578 (32,8%)","976309898 (67,2%)",150000000,Walt Disney Studios Motion Pictures,2019,"Chris Buck,Jennifer Lee"
+14,Barbie,1445638421,636238421 (44%),809400000 (56%),145000000,Warner Bros.,2023,Greta Gerwig
+15,Avengers: Age of Ultron,1405018048,"459005868 (32,7%)","946012180 (67,3%)",250000000,Walt Disney Studios Motion Pictures,2015,Joss Whedon
+16,Super Mario Bros.: la película,1361949854,"574934330 (42,2%)","787015524 (57,8%)",100000000,Universal Pictures,2023,"Aaron Horvath,Michael Jelenic"
+17,Black Panther,1349926083,"700426566 (51,9%)","649499517 (48,1%)",200000000,Walt Disney Studios Motion Pictures,2018,Ryan Coogler
+18,Harry Potter y las reliquias de la Muerte: parte 2,1342359942,"381447587 (28,4%)","960912354 (71,6%)",250000000,Warner Bros.,2011,David Yates
+19,Star Wars: Episodio VIII - Los últimos Jedi,1334407706,"620181382 (46,5%)","714226324 (53,5%)",317000000,Walt Disney Studios Motion Pictures,2017,Rian Johnson
+20,Jurassic World: el reino caído,1310466296,"417719760 (31,9%)","892746536 (68,1%)",170000000,Universal Pictures,2018,J. A.Bayona
+21,Frozen,1284540518,"400953009 (31,2%)","883587509 (68,8%)",150000000,Walt Disney Studios Motion Pictures,2013,"Chris Buck,Jennifer Lee"
+22,La bella y la bestia,1266115964,"504481165 (39,8%)","761634799 (60,2%)",160000000,Walt Disney Studios Motion Pictures,2017,Bill Condon
+23,Los Increíbles 2,1243225667,608581744 (49%),634643923 (51%),200000000,Walt Disney Studios Motion Pictures,2018,Brad Bird
+24,The Fate of the Furious,1236005118,"226008385 (18,3%)","1009996733 (81,7%)",250000000,Universal Pictures,2017,F. Gary Gray
+25,Iron Man 3,1215577205,"409013994 (33,6%)","806563211 (66,4%)",200000000,Walt Disney Studios Motion Pictures,2013,Shane Black
+26,Minions,1159444662,336045770 (29%),823398892 (71%),74000000,Universal Pictures,2015,Pierre Coffin
+27,Capitán América: Civil War,1155046416,"408084349 (35,3%)","746962067 (64,7%)",250000000,Walt Disney Studios Motion Pictures,2016,Anthony y Joe Russo
+28,Aquaman,1148528393,"335104314 (29,2%)","813424079 (70,8%)",160000000,Warner Bros.,2018,James Wan
+29,El Señor de los Anillos: el retorno del Rey,1147633833,"379427292 (33,1%)","768206541 (66,9%)",94000000,New Line Cinema,2003,Peter Jackson
+30,Skyfall,1142471295,"304360277 (26,6%)","838111018 (73,4%)",200000000,Sony Pictures ReleasingUnited Artists Releasing,2012,Sam Mendes
+31,Spider-Man: lejos de casa,1131927996,"390532085 (34,5%)","741395911 (65,5%)",160000000,Sony Pictures,2019,Jon Watts
+32,Capitana Marvel,1131416446,"426829839 (37,7%)","704586607 (62,3%)",152000000,Walt Disney Studios Motion Pictures,2019,"Anna Boden,Ryan Fleck"
+33,Transformers: el lado oscuro de la luna,1123794079,"352390543 (31,4%)","771403536 (68,6%)",195000000,Paramount Pictures,2011,Michael Bay
+34,The Dark Knight Rises,1114085030,"448149584 (40,2%)","665935446 (59,8%)",230000000,Warner Bros.,2012,Christopher Nolan
+35,Jurassic Park,1113138548,"407185075 (36,6%)","705953473 (63,4%)",63000000,Universal Pictures,1993,Steven Spielberg
+36,Transformers: la era de la extinción,1104054072,"245439076 (22,2%)","858614996 (77,8%)",210000000,Paramount Pictures,2014,Michael Bay
+37,Star Wars: Episodio IX - El ascenso de Skywalker,1077022372,"515202542 (47,8%)","561819830 (52,2%)",275000000,Walt Disney Studios Motion Pictures,2019,J. J. Abrams
+38,Joker,1074458282,"335477657 (31,2%)","738980625 (68,8%)",55000000,Warner Bros.,2019,Todd Phillips
+39,Toy Story 4,1073841394,"434038008 (40,4%)","639803386 (59,6%)",200000000,Walt Disney Studios Motion Pictures,2019,Josh Cooley
+40,Toy Story 3,1067316101,"415004880 (38,9%)","652311221 (61,1%)",200000000,Walt Disney Studios Motion Pictures,2010,Lee Unkrich
+41,Pirates of the Caribbean: Dead Man's Chest,1066179747,"423315812 (39,7%)","642863935 (60,3%)",225000000,Walt Disney Studios Motion Pictures,2006,Gore Verbinski
+42,Rogue One: una historia de Star Wars,1058682142,"533539991 (50,4%)","525142151 (49,6%)",200000000,Walt Disney Studios Motion Pictures,2016,Gareth Edwards
+43,Aladdín,1054304000,"355559216 (33,7%)","698744784 (66,3%)",183000000,Walt Disney Studios Motion Pictures,2019,Guy Ritchie
+44,Pirates of the Caribbean: On Stranger Tides,1046721266,241071802 (23%),805649464 (77%),250000000,Walt Disney Studios Motion Pictures,2011,Rob Marshall
+45,Despicable Me 3,1034800131,"264624300 (25,6%)",770175831 (744%),80000000,Universal Pictures,2017,"Pierre Coffin,Kyle Balda,Eric Guillon"
+46,Buscando a Dory,1029266989,"486295561 (47,2%)","542971428 (52,8%)",200000000,Walt Disney Studios Motion Pictures,2016,"Andrew Stanton,Angus McLane"
+47,The Dark Knight,1029266147,534987076 (52%),494279071 (48%),185000000,Warner Bros.,2008,Christopher Nolan
+48,Star Wars: Episodio I - La amenaza fantasma,1027082707,"474544677 (46,2%)","552538030 (53,8%)",115000000,20th Century Fox,1999,George Lucas
+49,Zootopia,1025521689,"341268248 (33,3%)","684253441 (66,7%)",150000000,Walt Disney Studios Motion Pictures,2016,"Byron Howard,Rich Moore"
+50,Alicia en el país de las maravillas,1025468216,"334191110 (33,6%)","691277106 (67,4%)",200000000,Walt Disney Studios Motion Pictures,2010,Tim Burton
+51,Harry Potter y la piedra filosofal,1023842938,"318886962 (31,1%)","704955975 (68,9%)",125000000,Warner Bros. Pictures,2001,Chris Columbus
+52,El hobbit: un viaje inesperado,1017030651,"303030651 (29,8%)","714000000 (70,2%)",315000000,Warner Bros.,2012,Peter Jackson
+53,Jurassic World: Dominion,1003700604,"376851080 (37,6%)","626849524 (62,4%)",165000000,Universal Pictures,2022,Colin Trevorrow
+54,Jumanji: Welcome to the Jungle,995339117,"404540171 (40,6%)","590798946 (59,4%)",90000000,Sony Pictures,2017,Jake Kasdan
+55,Harry Potter y las reliquias de la Muerte: parte 1,977070383,"296374621 (30,3%)","680695761 (69,7%)",250000000,Warner Bros.,2010,David Yates
+56,Despicable Me 2,970766005,"368065385 (37,9%)","602700620 (62,1%)",76000000,Universal Pictures,2013,Pierre Coffin
+57,El rey león,968511805,"422783777 (43,7%)","545728028 (60,3%)",45000000,Walt Disney Studios Motion Pictures,1994,Rob Minkoff
+58,El libro de la selva,967724775,"364001123 (37,6%)","603723652 (62,4%)",175000000,Walt Disney Studios Motion Pictures,2016,Jon Favreau
+59,El hobbit: la batalla de los Cinco Ejércitos,962201338,"255138261 (26,5%)","707063077 (73,5%)",250000000,Warner Bros.,2014,Peter Jackson
+60,Piratas del Caribe: en el fin del mundo,961691209,"309420425 (32,2%)","652270784 (67,8%)",310000000,Walt Disney Studios Motion Pictures,2007,Gore Verbinski
+61,El hobbit: la desolación de Smaug,959027992,"258387334 (26,9%)","700640658 (73,1%)",225000000,Warner Bros.,2013,Peter Jackson
+62,Oppenheimer,957217320,"328858320 (34,4%)","628359000 (67,6%)",100000000,Universal Pictures,2023,Christopher Nolan
+63,Doctor Strange en el multiverso de la locura,953038430,411331607 (43%),544444197 (57%),200000000,Walt Disney Studios Motion Pictures,2022,Sam Raimi
+64,El Señor de los Anillos: las dos torres,947944270,"342952511 (36,2%)","604991759 (63,8%)",94000000,New Line Cinema,2002,Peter Jackson
+65,Harry Potter y la Orden del Fénix,942278045,292382727 (31%),649895317 (69%),150000000,Warner Bros.,2007,David Yates
+66,Buscando a Nemo,941637960,"380843261 (40,4%)","560794699 (59,6%)",94000000,Walt Disney Studios Motion Pictures,2003,Andrew Stanton/Lee Unkrich
+67,Minions: The Rise of Gru,939628210,"369695210 (39,3%)","569933000 (60,7%)",80000000,Universal Pictures,2022,Pierre Coffin
+68,Harry Potter y el misterio del príncipe,934519387,"302334374 (32,4%)","632185012 (67,6%)",250000000,Warner Bros.,2009,David Yates
+69,Shrek 2,928760770,"441226247 (47,5%)","487534523 (52,5%)",150000000,DreamWorks,2004,Andrew Adamson/Kelly Asbury/Conrad Vernon
+70,Harry Potter y la cámara secreta,925668380,"262641637 (28,4%)","663026742 (71,6%)",100000000,Warner Bros.,2002,Chris Columbus
+71,Bohemian Rhapsody,910809311,"216668042 (23,8%)","694141269 (76,2%)",52000000,20th Century Fox,2018,Bryan Singer/Dexter Fletcher
+72,The Battle at Lake Changjin,902548476,342411 (--%),902206065 (100%),200000000,August First Film Studio,2021,Chen Kaige/Tsui Hark
+73,El Señor de los Anillos: la Comunidad del Anillo,898204420,"316115420 (35,2%)","582089000 (64,8%)",93000000,New Line Cinema,2001,Peter Jackson
+74,Harry Potter y el cáliz de fuego,896815106,"290469928 (32,4%)","606345177 (67,6%)",150000000,Warner Bros.,2005,Mike Newell
+75,Spider-Man 3,894983373,"336530303 (37,6%)","558453070 (62,4%)",258000000-$350000000,Sony Pictures,2007,Sam Raimi
+76,The Secret Life of Pets,894328469,"368384330 (41,2%)","525944139 (57,9%)",75000000,Universal Pictures,2016,Chris Renaud
+77,Ice Age: Dawn of the Dinosaurs,886686817,"196573705 (22,2%)","690113112 (77,8%)",90000000,20th Century Fox,2009,Carlos Saldhana/Mike Thurmeier
+78,Spectre,880705312,"200074609 (22,7%)","680630703 (77,3%)",245000000,Sony Pictures,2015,Sam Mendes
+79,Spider-Man: Homecoming,880166924,334201140 (38%),545965784 (62%),175000000,Sony Pictures,2017,Jon Watts
+80,Ice Age: Continental Drift,877244782,"161321843 (18,4%)","715922939 (81,6%)",95000000,20th Century Fox,2012,Steve Martino/Mike Thurmeier
+81,Batman v Superman: Dawn of Justice,873637528,"330360194 (37,8%)","543277334 (62,2%)",250000000,Warner Bros.,2016,Zack Snyder
+82,Wolf Warrior 2,870325439,"2721100 (0,3%)","867604339 (99,7%)",30100000,The H Collective,2017,Wu Jing
+83,Inception,870110523,292587330 (33.6%),544260772 (66.4%),160000000,Warner Bros.,2010,Christopher Nolan
+84,Star Wars: Episodio lll - la venganza de los Sith,868390560,"380270577 (43,8%)","488119983 (56,2%)",113000000,20th Century Fox,2005,George Lucas
+85,Los juegos del hambre: en llamas,865011746,"424668047 (49,1%)","440343699 (50,9%)",130000000,Lionsgate,2013,Francis Lawrence
+86,Guardianes de la Galaxia vol. 2,863756051,"389813101 (45,1%)","473942950 (54,9%)",200000000,Walt Disney Studios Motion Pictures,2017,James Gunn
+87,Black Panther: Wakanda Forever,859208836,"453829060 (52,8%)","405379776 (47,2%)",250000000,Walt Disney Studios Motion Pictures,2022,Ryan Coogler
+88,Inside Out,858848019,"356921711 (41,6%)","501926308 (58,4%)",175000000,Walt Disney Studios Motion Pictures,2015,Pete Docter/Ronnie del Carmen
+89,Venom,856085151,"213515506 (24,9%)","642569645 (75,1%)",100000000,Sony Pictures,2018,Ruben Fleischer
+90,Thor: Ragnarok,855301806,"315058289 (36,8%)","540243517 (63,2%)",180000000,Walt Disney Studios Motion Pictures,2017,Taika Waititi
+91,The Twilight Saga: Breaking Dawn - Part 2,848593948,"292324737 (34,4%)","556269948 (65,6%)",120000000,Lionsgate,2012,Bill Condon
+92,Guardianes de la Galaxia vol. 3,845555777,"358995815 (42,5%)","486559962 (57,5%)",250000000,Walt Disney Studios Motion Pictures,2023,James Gunn
+93,Transformers: la venganza de los caídos,836303693,"402111870 (48,2%)","434191823 (51,7%)",200000000,Paramount Pictures,2009,Michael Bay
+94,Spider-Man,825025036,"407022860 (49,3%)","418002176 (50,7%)",140000000,Sony Pictures,2002,Sam Raimi
+95,Wonder Woman,822854286,"412845172 (50,2%)","410009114 (49,8%)",149000000,Warner Bros.,2017,Patty Jenkins
+96,"Hi, Mom",822009764,—,822009764 (100%),59000000,Beijing Jingxi Culture  Tourism Co,2021,Ling Jia
+97,Independence Day,817400891,"306169268 (37,5%)","511231623 (62,5%)",75000000,20th Century Fox,1996,Roland Emmerich
+98,Coco,814337054,"210460015 (25,8%)","603877039 (74,2%)",175000000,Walt Disney Studios Motion Pictures,2017,Lee Unkrich/Adrián Molina
+99,Animales fantásticos y dónde encontrarlos,814044001,"234037575 (28,7%)","580006426 (71,3%)",180000000,Warner Bros.,2016,David Yates
+100,Shrek Tercero,813321380,"322719944 (39,7%)","590647436 (60,3%)",160000000,DreamWorks,2007,Alguien
