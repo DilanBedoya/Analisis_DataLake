@@ -64,6 +64,9 @@ A continuación se presenta los enlaces de:
 **Informe del Proyecto**
 https://epnecuador-my.sharepoint.com/:b:/g/personal/alexis_farinango_epn_edu_ec/EXebhy3q1VBLoFiyNVI_nVcBzvylqDh13h4OurJuuixsfA?e=4Ndgm5
 
+**Enlace presentación**
+https://www.canva.com/design/DAF-aJIw7ig/Bm3rjYbY90jrZog1Hu1oXw/edit?utm_content=DAF-aJIw7ig&utm_campaign=designshare&utm_medium=link2&utm_source=sharebutton
+
 **Visualizaciones en Power BI**
 https://app.powerbi.com/view?r=eyJrIjoiMzA0ZWIwODctNmYzMC00MDIzLTg1YmItZjk4OGUzNGEyZGU3IiwidCI6IjY4MmE0ZTZhLWE3N2YtNDk1OC1hM2FjLTllMjY2ZDE4YWEzNyIsImMiOjR9
 
